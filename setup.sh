@@ -17,4 +17,4 @@ pulumi new --yes https://github.com/pulumi/training/tree/main/azure-typescript/3
 echo "creating stack-references"
 cd ..
 mkdir stack-references && cd stack-references
-pulumi new --yes https://github.com/pulumi/training/tree/main/azure-typescript/3_component-resources
+pulumi new --yes https://github.com/pulumi/training/tree/main/azure-typescript/4_stack-references
